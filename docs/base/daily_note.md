@@ -3,6 +3,8 @@ sidebar_position: 1
 title: Daily Note
 ---
 
+![Daily Note Section](/img/daily_note_section.png)
+
 ## Capture Clippings to the Daily Note  
 
 The following configurations can be set for showing captured clippings in your daily note
@@ -13,15 +15,15 @@ The following configurations can be set for showing captured clippings in your d
 
 ### Daily Note Position 
 #### Should new clippings be appended to the bottom or prepended to the top?
-![Daily Note Header](/img/daily_note_position.png)
+![Daily Note Position](/img/daily_note_position.png)
 
 ### Open Daily Note after Clipping 
 #### Should the daily note be opened after adding the new clipping?
-![Daily Note Header](/img/daily_note_open.png)
+![Daily Note Open](/img/daily_note_open.png)
 
 ### Daily Note Clipping Template
-#### Do you want to override the default template when adding new clippings to your daily note?
+#### Override the default template when adding new clippings to the daily note?
 This field will auto suggest notes from your vault to use as a template. Select `None` to use the default template. 
 
-![Daily Note Header](/img/daily_note_template.gif)
+![Daily Note Template](/img/daily_note_template.gif)
 

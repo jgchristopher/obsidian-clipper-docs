@@ -10,26 +10,28 @@ The `Periodic Notes` plugin needs to be installed to use Weekly Notes.
 
 :::
 
+![Weekly Note Section](/img/weekly_note_section.png)
+
 
 ## Capture Clippings to the Weekly Note  
 
-The following configurations can be set for showing captured clippings in your daily note
+The following configurations can be set for showing captured clippings in your weekly note
 
-### Daily Note Header
+### Weekly Note Header
 #### The level 1 header that clippings should show under
-![Daily Note Header](/img/daily_note_header.png)
+![Weekly Note Header](/img/weekly_note_header.png)
 
-### Daily Note Position 
+### Weekly Note Position 
 #### Should new clippings be appended to the bottom or prepended to the top?
-![Daily Note Header](/img/daily_note_position.png)
+![Weekly Note Header](/img/weekly_note_position.png)
 
-### Open Daily Note after Clipping 
-#### Should the daily note be opened after adding the new clipping?
-![Daily Note Header](/img/daily_note_open.png)
+### Open Weekly Note after Clipping 
+#### Should the weekly note be opened after adding the new clipping?
+![Weekly Note Header](/img/weekly_note_open.png)
 
-### Daily Note Clipping Template
-#### Do you want to override the default template when adding new clippings to your daily note?
+### Weekly Note Clipping Template
+#### Do you want to override the default template when adding new clippings to your weekly note?
 This field will auto suggest notes from your vault to use as a template. Select `None` to use the default template. 
 
-![Daily Note Header](/img/daily_note_template.gif)
+![Weekly Note Header](/img/weekly_note_template.gif)
 

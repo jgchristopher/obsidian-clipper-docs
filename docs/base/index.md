@@ -2,10 +2,10 @@
 sidebar_position: 2
 title: Base Configs
 ---
+## Base Configuration Section
 
-# Base Configuration
+This configuration tab mangages the confiration sections for [Daily Note](./daily_note.md), [Weekly Note](./weekly_note.md), and [Common Settings](./common_settings.md).
 
-![Base 1](/img/Base1.png)
-![Base 2](/img/Base2.png)
-![Daily](/img/DailyNote.png)
-![Enable Setting](/img/enable_setting.gif)
+![Base Configuration Section](/img/base_section.png)
+
+

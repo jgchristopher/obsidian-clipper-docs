@@ -5,11 +5,11 @@ title: Getting Started
 
 ## Installation
 
-Checkout [here](/Installation) for information on how to install the `Obsidian Clipper` plugin.
+Checkout [here](./installation/) for information on how to install the `Obsidian Clipper` plugin.
 
 **This plugin is in the community plugin browser in Obsidian**. You can search for it and install it there .
 
-You can also do a [manual installation](./ManualInstallation).
+You can also do a [manual installation](./installation/manualinstallation.md).
 
 ## Configuration
 
