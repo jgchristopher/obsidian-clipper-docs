@@ -21,11 +21,7 @@ function HomepageHeader() {
           </Link>
         </div>
         <div className={styles.video}>
-          <ReactPlayer
-            playing
-            controls
-            url="https://youtu.be/kINRwNG2LCQ?autoplay=0&rel=0"
-          />
+          <ReactPlayer false controls url="https://youtu.be/kINRwNG2LCQ" />
         </div>
       </div>
     </header>
