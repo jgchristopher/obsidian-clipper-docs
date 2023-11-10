@@ -22,9 +22,16 @@
   justify-content: center;
 }
 
+.videoRow {
+  display: flex;
+  flex-direction: row;
+}
+
 .video {
   margin-top: 2rem;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+  padding: 2rem;
 }
