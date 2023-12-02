@@ -27,6 +27,11 @@
   flex-direction: row;
 }
 
+.videoCenter {
+  align-items: center;
+  justify-content: center;
+}
+
 .video {
   margin-top: 2rem;
   display: flex;

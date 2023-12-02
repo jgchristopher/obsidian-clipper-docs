@@ -20,9 +20,15 @@ function HomepageHeader() {
             Obsidian Clipper Docs
           </Link>
         </div>
+        <div class={[styles.videoRow, styles.videoCenter]}>
+          <div className={styles.video}>
+            <h2>Start Here!</h2>
+            <ReactPlayer false controls url="https://youtu.be/OiWKZBd7Hn4" />
+          </div>
+        </div>
         <div class={styles.videoRow}>
           <div className={styles.video}>
-            <h2>Getting Started</h2>
+            <h2>Getting Started - In Depth</h2>
             <ReactPlayer false controls url="https://youtu.be/kINRwNG2LCQ" />
           </div>
           <div className={styles.video}>
