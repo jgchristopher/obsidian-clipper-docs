@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Obsidian Clipper Docs",
+  title: "Clipper Docs",
   tagline: "Clipping from the web made easy",
   favicon: "img/favicon.ico",
 
@@ -53,7 +53,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Obsidian Clipper",
+        title: "Clipper for Obsidian",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.png",

@@ -17,7 +17,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/docs/">
-            Obsidian Clipper Docs
+            Clipper Docs
           </Link>
         </div>
         <div class={[styles.videoRow, styles.videoCenter]}>
