@@ -33,6 +33,8 @@ Closing the dialog opens Clipper's settings. Open your daily or weekly clipper, 
 
 Closing the dialog creates a topic clipper for that note and opens its **Browser** tab. Drag the new bookmarklet and delete the old one.
 
+An old canvas bookmarklet shows the same dialog and creates a canvas clipper for that canvas.
+
 ## Other changes
 
 - **Headings in clippings.** The six H1 to H6 replacement settings are gone. Clipped headings are nested below the clipper's heading automatically. See [What gets converted](./clipping/bookmarklet.md#what-gets-converted).

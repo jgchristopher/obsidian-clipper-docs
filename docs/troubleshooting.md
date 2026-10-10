@@ -22,7 +22,7 @@ title: Troubleshooting
 | found several canvases named "…" | More than one canvas matches. Pick the right one in the clipper's settings. |
 | couldn't find the entry template "…" | The template note is missing. The clipping was saved with the default layout. |
 | Can't find heading | The heading wasn't in the note at the clipper's Header Level, so Clipper added it. The clipping was saved. |
-| …needs to be enabled from the periodic-notes plugin | A daily or weekly clipper can't find your daily or weekly note settings. See [Requirements](./installation/index.md#requirements). |
+| turn on the core Daily notes plugin… / turn on the Calendar plugin… | A daily or weekly clipper can't find your daily or weekly note settings. See [Requirements](./installation/index.md#requirements). |
 | Bookmarklet Migration Needed | The bookmarklet is from 0.x. See [Upgrading from 0.x](./upgrading.md). |
 
 ![The notice shown for a deleted clipper](/img/manual/notice-unknown-clipper.png)

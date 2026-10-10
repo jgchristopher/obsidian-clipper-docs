@@ -276,7 +276,10 @@ const SHOTS = {
 				(e) => e.textContent.trim() === 'Add New Clipper'
 			);
 			const input = heading.closest('div:has(input)')?.querySelector('input');
-			if (input) input.value = 'Rust Reading';
+			if (input) {
+				input.value = 'Rust Reading';
+				input.dispatchEvent(new Event('input'));
+			}
 			const select = heading.closest('div:has(select)')?.querySelector('select');
 			if (select) {
 				select.value = 'topic';

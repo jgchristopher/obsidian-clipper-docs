@@ -21,6 +21,8 @@ Pick the canvas in **Topic Note** at the top of the clipper's settings (the labe
 
 Each card holds the clipped text and a link to the page.
 
-## Settings that don't apply
+## Settings
 
-Canvas clippers ignore **Focus Note After Adding Clipping?**, **Clipped Entry Template**, **Tags**, **Time Format**, and **Date Format**, even though the Base tab shows them. They also need a selection: clicking the bookmarklet with nothing selected shows an error notice.
+A canvas clipper's Base tab has no settings: headings, position, templates, tags, and date formats only apply to notes. The Browser and Advanced tabs work the same as for other clippers.
+
+Canvas clippers need a selection. Clicking the bookmarklet with nothing selected shows an error notice.

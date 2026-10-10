@@ -16,7 +16,7 @@ Each row shows the clipper's name, type, and when it was created, with two icons
 
 ## Add a clipper
 
-Click **+**, enter a name, choose a type, and click **Add Clipper**. The new clipper starts with default settings. Click its gear icon to set its note and heading.
+Click **+**, enter a name, choose a type, and click **Add Clipper**. The button stays disabled until both are filled in. The new clipper starts with default settings. Click its gear icon to set its note and heading.
 
 ![The Add New Clipper form](/img/manual/add-clipper.png)
 
