@@ -34,7 +34,7 @@ The box has no cancel button. To abandon the clipping, reload the page.
 The bookmarklet converts the selection to Markdown in your browser before sending it.
 
 - Bold, italic, inline code, code blocks, lists, quotes, and horizontal rules.
-- Links, with relative links made absolute using the page's address.
+- Links, with relative links made absolute using the page's address. `mailto:` and `tel:` links are kept as written.
 - Tables become Markdown tables, with column alignment kept when the page sets it with the `align` attribute. A table without a header row gets an empty one.
 - Headings are nested below the clipper's heading, based on **Header Level**:
 

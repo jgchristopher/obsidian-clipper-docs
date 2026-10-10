@@ -7,7 +7,7 @@ title: Canvas
 
 A canvas clipper adds each clipping to a canvas as a card, grouped under a card for the website it came from.
 
-Pick the canvas in **Topic Note** at the top of the clipper's settings (the label is shared with topic clippers). The list shows only `.canvas` files. Click the canvas in the list to save it.
+Pick the canvas in **Canvas** at the top of the clipper's settings. The list shows only `.canvas` files. Click the canvas in the list to save it.
 
 ![The Base tab of a canvas clipper](/img/manual/editor-canvas-base.png)
 
