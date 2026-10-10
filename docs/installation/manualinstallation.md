@@ -2,8 +2,9 @@
 title: Manual Installation
 ---
 
-1. Go to [Releases](https://github.com/jgchristopher/obsidian-clipper/releases) and download the ZIP file from the latest release. The one that looks like `obsidian-clipper-x.x.x.zip.`
-2. This ZIP file should be extracted in your Obsidian plugins folder. To find your plugins folder, go to `Community Plugins` inside the Obsidian settings screen. Click the folder icon on the right of `Installed Plugins` to open the plugins folder.
-3. Extract the contents of the ZIP file there.
-4. There should now be a folder in plugins called 'obsidian-clipper' containing a `main.js` file, a `manifest.json` file, and a `styles.css` file.
+# Manual installation
 
+1. Go to [Releases](https://github.com/jgchristopher/obsidian-clipper/releases) and download the ZIP file from the latest release. It is named like `obsidian-clipper-1.0.0.zip`.
+2. In Obsidian, open **Settings → Community plugins** and click the folder icon next to **Installed plugins**. This opens your vault's plugins folder.
+3. Extract the ZIP file there. You should now have a folder named `obsidian-clipper` containing `main.js`, `manifest.json`, and `styles.css`.
+4. Back in **Community plugins**, click the reload icon, then enable **Clipper**.

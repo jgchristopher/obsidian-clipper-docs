@@ -28,3 +28,9 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Screenshots are captured at 2x. Keep them near their natural size. */
+.markdown img {
+  max-width: min(100%, 760px);
+  border-radius: 8px;
+}
