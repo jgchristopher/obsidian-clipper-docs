@@ -6,8 +6,6 @@ import Layout from "@theme/Layout";
 
 import styles from "./index.module.css";
 
-import ReactPlayer from "react-player";
-
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -19,22 +17,6 @@ function HomepageHeader() {
           <Link className="button button--secondary button--lg" to="/docs/">
             Clipper Docs
           </Link>
-        </div>
-        <div class={[styles.videoRow, styles.videoCenter]}>
-          <div className={styles.video}>
-            <h2>Start Here!</h2>
-            <ReactPlayer false controls url="https://youtu.be/OiWKZBd7Hn4" />
-          </div>
-        </div>
-        <div class={styles.videoRow}>
-          <div className={styles.video}>
-            <h2>Getting Started - In Depth</h2>
-            <ReactPlayer false controls url="https://youtu.be/kINRwNG2LCQ" />
-          </div>
-          <div className={styles.video}>
-            <h2>Installing Chrome Extension </h2>
-            <ReactPlayer false controls url="https://youtu.be/cLYLs2NTZ-k" />
-          </div>
         </div>
       </div>
     </header>
