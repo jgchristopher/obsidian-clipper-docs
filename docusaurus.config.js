@@ -11,7 +11,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://obsidianclipper.com",
+  url: "https://docs.obsidianclipper.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -55,7 +55,7 @@ const config = {
       navbar: {
         title: "Clipper for Obsidian",
         logo: {
-          alt: "My Site Logo",
+          alt: "Clipper for Obsidian logo",
           src: "img/logo.png",
         },
         items: [
