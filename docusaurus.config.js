@@ -6,12 +6,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Obsidian Clipper Docs",
+  title: "Clipper Docs",
   tagline: "Clipping from the web made easy",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://obsidianclipper.com",
+  url: "https://docs.obsidianclipper.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -53,9 +53,9 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Obsidian Clipper",
+        title: "Clipper for Obsidian",
         logo: {
-          alt: "My Site Logo",
+          alt: "Clipper for Obsidian logo",
           src: "img/logo.png",
         },
         items: [

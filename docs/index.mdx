@@ -1,21 +1,29 @@
 ---
 sidebar_position: 1
-title: Getting Started
+title: Introduction
+slug: /
 ---
 
-## Installation
+# Clipper for Obsidian
 
-Checkout [here](./installation/) for information on how to install the `Obsidian Clipper` plugin.
+Clipper saves what you highlight on a web page into your Obsidian vault. Select text in your browser, click a bookmark, and the selection lands in the note you chose, converted to Markdown with a link back to the page.
 
-**This plugin is in the community plugin browser in Obsidian**. You can search for it and install it there .
+## How it works
 
-You can also do a [manual installation](./installation/manualinstallation.md).
+1. You create a **clipper** in Obsidian. A clipper says where clippings go: today's daily note, this week's weekly note, a specific note, or a canvas.
+2. Each clipper has its own **bookmarklet**: a browser bookmark that runs a small script instead of opening a page.
+3. On a web page, you select some text and click the bookmarklet. It converts the selection to Markdown in the browser and hands it to Obsidian.
+4. Obsidian writes the clipping into the clipper's note.
 
-## Configuration
+You can have as many clippers as you like, for example one for your daily note and one per research topic.
 
-Some configuation options can be turned on, exposing more configuation options specific to that option. These configurations will remain if that setting is turned off. 
+:::info Clipper is an Obsidian plugin, not a browser extension
+Install it from Obsidian's Community plugins. The browser side is a bookmarklet you drag to your bookmarks bar. Browsers that can't run bookmarklets can use a [generated Chrome-based extension](./clipping/bookmarklet.md#chrome-based-browsers-without-bookmarklets) instead.
+:::
 
-See the example below. 
-![Enable Setting](/img/enable_setting.gif)
+## Where to go next
 
-
+- [Installation](./installation/index.md)
+- [Getting started](./getting-started.md): your first clipper, from setup to the first clipping
+- [Clipper types](./clipper-types/index.md): daily, weekly, topic, and canvas
+- [Upgrading from 0.x](./upgrading.md): what changed and how to replace old bookmarklets
